@@ -1,0 +1,6 @@
+[package]
+name = "formula-fib"
+version = "0.1.0"
+authors = ["Matthew Clark <mclark4386@gmail.com>"]
+
+[dependencies]
